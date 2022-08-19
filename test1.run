@@ -1,0 +1,6 @@
+reset;
+model test1.mod;
+data test1.dat;
+option solver minos;
+solve;
+display m;
